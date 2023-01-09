@@ -85,11 +85,6 @@ p {
     bottom: -20px;
 }
 
-/* #pos:hover {
-    background-color: #145434;
-    color: #ffeedf;
-} */
-
 
 button {
     width: 200px;
@@ -117,9 +112,7 @@ button:hover #arrow {
     
 }
 
-/* #arrow:hover {
-    color: #ffeedf;
-} */
+
 
 @media screen and (max-width: 880px) { 
     #root {
@@ -131,11 +124,4 @@ button:hover #arrow {
     }
 }
 
-@media screen and (max-width: 480px) { 
-    #root {
-      
-        
-    }
-
-}
 
